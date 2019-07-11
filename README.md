@@ -1,1 +1,2 @@
 # super
+free -h
